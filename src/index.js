@@ -37,5 +37,5 @@ function ranking(qtdVitorias, qtdDerrotas) {
 let resultado = ranking(85,20)
 
 console.log(
-    `O Herói tem de saldo de ${resultado.pontuacao} está no nível de ${rasultado.classificacao}`
+    `O Herói tem de saldo de ${resultado.pontuacao} está no nível de ${resultado.classificacao}`
 )
